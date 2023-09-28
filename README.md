@@ -7,7 +7,7 @@ Welcome to my "general-python" repository! This repository contains a collection
 
 Here's a list of projects included in this repository:
 
-## 1. Project: add watermark pdf 
+`1. Project: add watermark pdf `
 <ul style='margin-top: 2rem;'> 
 
     <li>-Folder: `/add-watermark-pdf`</li>
