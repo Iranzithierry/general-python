@@ -9,7 +9,6 @@ Here's a list of projects included in this repository:
 
 `1. Project: add watermark pdf `
 <ul style='margin-top: 2rem;'> 
-
     <li>-Folder: `/add-watermark-pdf`</li>
     <li>-Link: <b>https://github.com/Iranzithierry/General-Python/tree/main/add-watermark-pdf</b></li>
     <li>-Description: "Please Fork"</li>
