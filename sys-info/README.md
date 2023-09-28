@@ -1,0 +1,1 @@
+Python General Repository => sys-info By Iranzi Dev <a href='https://github.com/Iranzithierry'>Github Account</a>
