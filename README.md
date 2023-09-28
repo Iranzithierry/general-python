@@ -6,9 +6,10 @@ Welcome to my "general-python" repository! This repository contains a collection
 ## Projects
 
 Here's a list of projects included in this repository:
-            
-<ul style='margin-top: 2rem;'> 
+
 ## 1. Project: add watermark pdf 
+<ul style='margin-top: 2rem;'> 
+
     <li>-Folder: `/add-watermark-pdf`</li>
     <li>-Link: <b>https://github.com/Iranzithierry/General-Python/tree/main/add-watermark-pdf</b></li>
     <li>-Description: "Please Fork"</li>
